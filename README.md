@@ -1,2 +1,2 @@
-# vonray
-SuperProjekt von Ray
+# SuperProjekt
+Demo Projekt für Schulung
